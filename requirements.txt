@@ -1,3 +1,6 @@
+# To install all dependencies at once, run the following command:
+# pip install -r requirements.txt
+
 discord
 pyTelegramBotAPI
 flask
