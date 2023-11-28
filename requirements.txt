@@ -1,0 +1,7 @@
+discord
+pyTelegramBotAPI
+flask
+slackclient
+slackeventsapi
+ibm-watson
+python-dotenv
