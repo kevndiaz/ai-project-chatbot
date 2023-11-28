@@ -1,4 +1,4 @@
-# AI Project Chatbot
+# AI Project - Chatbot
 
 ## Description
 
@@ -26,6 +26,8 @@ File: `bots/discord-bot.py`
     - `DISCORD_TOKEN`: Your Discord bot token
 3. Run the Discord bot: `python discord-bot.py`
 
+![Discord Bot](public/screenshots/Screenshot_1.png)
+
 ### Slack Bot
 
 File: `bots/slack-bot.py`
@@ -50,6 +52,8 @@ File: `bots/slack-bot.py`
     - `SLACK_SIGNING_SECRET`: Your Slack signing secret
 3. Run the Slack bot: `python slack-bot.py`
 
+![Discord Bot](public/screenshots/Screenshot_2.png)
+
 ### Telegram Bot
 
 File: `bots/telegram-bot.py`
@@ -69,6 +73,8 @@ File: `bots/telegram-bot.py`
     - `WATSON_ASSISTANT_ID`: Your Watson Assistant ID
     - `TELEGRAM_API_TOKEN`: Your Telegram bot token
 3. Run the Telegram bot: `python telegram-bot.py`
+
+![Discord Bot](public/screenshots/Screenshot_3.png)
 
 ## Cloud Function
 
