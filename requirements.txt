@@ -8,3 +8,4 @@ slackclient
 slackeventsapi
 ibm-watson
 python-dotenv
+requests
